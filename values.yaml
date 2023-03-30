@@ -3,4 +3,4 @@ app:
     app:
       image:
         repository: nginx
-        tag: 1.23.3
+        tag: stable-alpine3.17-slim
